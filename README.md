@@ -13,11 +13,12 @@ Accessible: If someone else sees this idea and wants to make their own, lets min
             As a caviat to this specialist shelves are't counted as technically they are not needed, and metal shelves available online could replace them for non-racked components where needed. 
 
 
-Bill Of MaterialsL
+Bill Of Materials
+[Here](https://github.com/Mitch-Lux/Mini-Rack/tree/main/Bill%20Of%20Materials)
 
 Diagrams:
 
 Construction:
 
 3D Print files:
-
+[Here](https://github.com/Mitch-Lux/Mini-Rack/tree/main/3D-Printfiles)
