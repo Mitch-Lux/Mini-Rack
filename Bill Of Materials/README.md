@@ -4,7 +4,7 @@ Cage Nuts
 
 - [2020 Aluminium Extrusion 2020 Aluminium Extrusion](https://vi.aliexpress.com/item/1005005893301224.html?spm=a2g0o.order_list.order_list_main.102.75971802QPCb3Y&gatewayAdapt=glo2vnm) (2020T, 400mm) x 4 = Front to Rear bracers (2020T, 300mm) x 4 = Sideways bracers
 
--[L joints](https://vi.aliexpress.com/item/1005006415197962.html?spm=a2g0o.order_list.order_list_main.71.75971802QPCb3Y&gatewayAdapt=glo2vnm)
+- [L joints](https://vi.aliexpress.com/item/1005006415197962.html?spm=a2g0o.order_list.order_list_main.71.75971802QPCb3Y&gatewayAdapt=glo2vnm)
 
 - [Captive Nuts](https://vi.aliexpress.com/item/1005007383347166.html?spm=a2g0o.order_list.order_list_main.138.75971802QPCb3Y&gatewayAdapt=glo2vnm)
 
