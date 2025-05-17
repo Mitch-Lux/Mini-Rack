@@ -1,37 +1,5 @@
 This is a page to track the build guidance for my mini rack project.
 
+THis Project was inspired by the "Project MINI RACK" from Jeff Geerling, found here: mini-rack https://www.youtube.com/watch?v=y1GCIwLm3is&ab_channel=JeffGeerling
 
-Parts List
-Rack strips
-https://www.amazon.co.uk/dp/B07R81MBPZ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-(I personally used the 20U (892.2mm Total Length) ) 
-
-Cage Nuts
-
-
-  2020 Aluminium Extrusion
-2020 Aluminium Extrusion
-https://vi.aliexpress.com/item/1005005893301224.html?spm=a2g0o.order_list.order_list_main.102.75971802QPCb3Y&gatewayAdapt=glo2vnm
-(2020T, 400mm) x 4  = Front to Rear bracers
-(2020T, 300mm) x 4  = Sideways bracers
-
-L joints
-https://vi.aliexpress.com/item/1005006415197962.html?spm=a2g0o.order_list.order_list_main.71.75971802QPCb3Y&gatewayAdapt=glo2vnm
-
-Captive Nuts
-https://vi.aliexpress.com/item/1005007383347166.html?spm=a2g0o.order_list.order_list_main.138.75971802QPCb3Y&gatewayAdapt=glo2vnm
-
-Completely unneccessary rubber covers for 2020 extrusion
-https://vi.aliexpress.com/item/1005001683499330.html?spm=a2g0o.order_list.order_list_main.56.75971802QPCb3Y&gatewayAdapt=glo2vnm
-
-Right angle brackets (unused)
-https://vi.aliexpress.com/item/1005007349855293.html?spm=a2g0o.order_list.order_list_main.133.75971802QPCb3Y&gatewayAdapt=glo2vnm
-
-10" shelf
-https://www.amazon.co.uk/dp/B08XJXKX4R?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-(apx $12)
-
-POE Switch
-https://www.amazon.co.uk/dp/B08DVFMCK4?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
- TP-Link Managed PoE Network Switch 5-Port Gigabit, 4 PoE+ ports up to 30 W for each PoE port and 65 W for all PoE ports, Support Network monitoring, traffic prioritization, VLAN(TL-SG105PE) 
- Size Name: 5-port Gibabit|65W 4xPoE+|Easy smart
+Whilst I liked the idea of the mini rack that (GeeekPi 4U)[https://www.amazon.com/GeeekPi-Cabinet-Equipment-RackMate-Rackmount/dp/B0DPGZPTPP?crid=3MDBNMZKN66DE&dib=eyJ2IjoiMSJ9.RAZSJ_3XBtDA47t1Yst3waXCIZ0gZ7rk5FNsWG2LHUW4evmQTZRDmS8vUiYbaky0303sRwbjOOOjLF9I6Y2ZN04HuSn8hbM0Gvcy3b50BKrYbo2yuFiLbS9KhMHI3VqKzNcYIUYm404fd_yWgE9arp4-f9sav9oEEEVQHUi6mc4x5t2DkeyTY7x7iFnY60JL.sHB71PhfYyRkJJaVeY8cQydXEcl0LAnMNgVXhGFni08&dib_tag=se&keywords=rackmate+t0&qid=1736536448&sprefix=rackmate+t0,aps,130&sr=8-1&linkCode=sl1&tag=mmjjg-20&linkId=96cf07e1d07bd0da81caae2ab0ceefd0&language=en_US&ref_=as_li_ss_tl]
