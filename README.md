@@ -44,11 +44,8 @@ This covers uneccesary extensions I have added to my homelab rack to make it int
 
 ## FAQ
 <details>
+<summary>Expand Here</summary>
 
-<summary>## FAQ</summary>
 IOU1FAQ
-
-You can add text within a collapsed section.
-
 
 </details>
