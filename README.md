@@ -42,12 +42,13 @@ This covers all the 3D print files I made or modified to complete my rack.
 This covers uneccesary extensions I have added to my homelab rack to make it into what I wanted it to be, including the quick release side panels, 3D printed shevles customised for components, fan supports and cowlings, handles, etc....
 [Here](https://github.com/Mitch-Lux/Mini-Rack/tree/main/Extended%20Development)
 
-
+##FAQ
 <details>
 
-<summary>## FAQ</summary>
+<summary>Expand Here</summary>
+IOU1FAQ
 
-### You can add a header
-</details>
+You can add text within a collapsed section.
+
 
 </details>
