@@ -14,7 +14,9 @@ I know that there are several excellent 3D printed racks around, but I have my c
 - Accessible: If someone else sees this idea and wants to make their own, lets minimise the amount of tools and specialist equipment you need to put the rack body together. 
             As a caviat to this specialist shelves are't counted as technically they are not needed, and metal shelves available online could replace them for non-racked components where needed. 
 - Modifiable: The rack is made for homelabbing, but it doesn't have to be. By using modular, adjustable or off the shelf components, anyone can make a rack to fit their personal bespoke needs.
-- 
+- Movable: The Rack should be on wheels so it can be parked out of the way most of the time, but easily accessible on all sides should the need arise.
+
+
 ## Who is this for:
 - If you saw Jeff Geerling's Mini Rack video and github and thought, "I want one of those!", and similtanously that you didn't have £100+ to drop on a 4U rack
 - If you have some homelab equipment and want to make a mini-rack from scratch to meet your specific needs.
