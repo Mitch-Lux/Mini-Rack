@@ -1,4 +1,4 @@
-##Extra features
+# Extra features
 Below are a list of optional upgrades I have made to the rack since the basic framework was in place:
 
 ## Casters:
