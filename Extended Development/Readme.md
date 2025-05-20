@@ -1,7 +1,7 @@
 # Extra features
 Below are a list of optional upgrades I have made to the rack since the basic framework was in place:
 
-## Casters:
+## Casters, AKA wheels:
 I used these Caster whheels for the bottom of my rack to allow for ease of movement 
 [SL Heavy Duty Braked 50mm Swivel Castor Wheels Trolley – Caster Wheels Set of 4 – Rubbered Castors for Furniture – Upto 200KG ](https://www.amazon.co.uk/dp/B01MT3DZ73?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1)
 These can be attached to the join of the 2020T aluminium extrusion at the bottom of the rack, with 3 mounting points without having to make any alterations to the base of the rack (assuming your casters have a square mounting plate with holes in each corner).
